@@ -12,4 +12,4 @@ Just simple test.
 <li> If pressed GPIO_Pin_1 -> colors change direction/or not
 <h2> Task 3 </h2>
 <li> Added timer interrupt.
-  need to add button interrupt
+<li> need to add button interrupt
