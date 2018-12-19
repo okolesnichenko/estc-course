@@ -10,3 +10,6 @@ Just simple test.
 <li> Added timer (TIM2)
 <li> If pressed GPIO_Pin_0 -> colors change direction/or not
 <li> If pressed GPIO_Pin_1 -> colors change direction/or not
+<h2> Task 3 </h2>
+<li> Added timer interrupt.
+  need to add button interrupt
